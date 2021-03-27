@@ -1,0 +1,12 @@
+This Stone Paper Scissor Game made by Yash Gupta
+
+---------------------------------------------------
+ Random module is use is this game 
+main use of random to select the computer option automatically in every round
+
+We can specify the number of round at starting 
+in each round available option is displayed and player is allowed to select the desired option
+
+winner of every round is displayed after the completion of round
+
+atlast winner is announce 
